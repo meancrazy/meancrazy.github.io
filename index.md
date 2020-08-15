@@ -1,7 +1,3 @@
-## Dmitrii Smirnov
-
-##### ds@nobody.spb.su • [linked.in/in/meancrazy](https://linkedin.com/in/meancrazy/) • [github.com/meancrazy](https://github.com/meancrazy/)
-
 ### Senior Software Developer
 
 ### Technical proficiencies
