@@ -1,11 +1,10 @@
 ### Senior Software Developer
 
 ### Technical proficiencies
-* Backend: .NET, .NET Core, ASP.NET Core, EF Core, NHibernate, LINQ, WCF, .NET Remoting, Reactive Programming
-* Frontend: WPF, WinForms, DevExtreme, JavaScript, TypeScript, JQuery, HTML, CSS
-* Databases: MS SQL, MySql, Postres, Sybase, Oracle
-* Version Control: Git, Mercurial, SVN
-* Workflow: TFS, TeamCity, Jira
+* ASP.NET Core, EF Core, NHibernate, LINQ, Rx.NET
+* T-SQL, MySQL, PostgreSQL
+* Git, Mercurial, SVN
+* TFS, TeamCity, Jira
 
 ### Professional experience
 #### OpenSpend Inc, Boston, MA, USA
