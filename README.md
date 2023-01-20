@@ -9,10 +9,19 @@
 ### Professional experience
 #### OpenSpend Inc, Boston, MA, USA
 All-In-One Enterprise Hybrid Cloud for Salons
-##### Software Developer (07.2019 - now)
+##### Senior Software Developer (07.2019 - now)
 ###### Key projects & achievements
-* Develop DataWarehouse solution.
-* Develop Booking system and integrate into already existing check-in system.
+* 2023
+   * Clover integration
+* 2022 
+   * Employees Globalization System
+   * Custom API/Integration/Gateway
+* 2021
+   * Clients Globalization System
+* 2020
+   * DataWarehouse solution
+* 2019
+   * Booking system and integrate into already existing check-in system
 
 #### Sang LTD, Saint-Petersburg, Russia
 One of the biggest distributors with offices in 25 cities. Working with Henkel, Energizer, Conte, SC Johnson, BIC, and many others.
