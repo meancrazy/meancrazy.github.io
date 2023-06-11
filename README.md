@@ -12,7 +12,7 @@ All-In-One Enterprise Hybrid Cloud for Salons
 ##### Senior Software Developer (07.2019 - now)
 ###### Key projects & achievements
 * 2023
-   * Clover integration
+   * Clover integrations
 * 2022 
    * Employees Globalization System
    * Custom API/Integration/Gateway
@@ -21,10 +21,10 @@ All-In-One Enterprise Hybrid Cloud for Salons
 * 2020
    * DataWarehouse solution
 * 2019
-   * Booking system and integrate into already existing check-in system
+   * Booking system/integrations into already existing check-in system
 
 #### Sang LTD, Saint-Petersburg, Russia
-One of the biggest distributors with offices in 25 cities. Working with Henkel, Energizer, Conte, SC Johnson, BIC, and many others.
+One of the biggest distributors with offices in 25 cities. Worked with Henkel, Energizer, Conte, SC Johnson, BIC, and many others.
 ##### Senior Software Developer (05.2017 - 07.2019)
 ###### Key projects & achievements
 * New projects are implemented on .NET Core
