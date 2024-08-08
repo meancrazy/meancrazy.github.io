@@ -1,16 +1,18 @@
 ### Senior Software Developer
 
 ### Technical proficiencies
-* ASP.NET Core, EF Core, NHibernate, LINQ, Rx.NET
-* T-SQL, MySQL, PostgreSQL
+* .NET, EF Core, NHibernate, LINQ, Rx.NET
+* PostgreSQL, MySQL, MSSQL
 * Git, Mercurial, SVN
-* TFS, TeamCity, Jira
+* Gitlab, TFS, TeamCity, Jira
 
 ### Professional experience
 #### OpenSpend Inc, Boston, MA, USA
 All-In-One Enterprise Hybrid Cloud for Salons
 ##### Senior Software Developer (07.2019 - now)
 ###### Key projects & achievements
+* 2024
+   * New customer with 2k+ stores launch (implementation & optimization)
 * 2023
    * Clover integrations
 * 2022 
