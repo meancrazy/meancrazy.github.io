@@ -3,18 +3,20 @@
 ### Technical proficiencies
 * .NET, EF Core, NHibernate, LINQ, Rx.NET
 * PostgreSQL, MySQL, MSSQL
-* Git, Mercurial, SVN
-* Gitlab, TFS, TeamCity, Jira
+* Git, Mercurial
+* Jira, Gitlab, TeamCity
 
 ### Professional experience
 #### OpenSpend Inc, Boston, MA, USA
 All-In-One Enterprise Hybrid Cloud for Salons
 ##### Senior Software Developer (07.2019 - now)
 ###### Key projects & achievements
+* 2025
+   * Public API (pilot with integrations for Schoox & Quinyx)
 * 2024
    * New customer with 2k+ stores launch (implementation & optimization)
 * 2023
-   * Clover integrations
+   * Clover integration
 * 2022 
    * Employees Globalization System
    * Custom API/Integration/Gateway
