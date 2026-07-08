@@ -1,0 +1,7 @@
+_site/
+Gemfile.lock
+.DS_Store
+.jekyll-cache/
+.ruby-lsp/
+*~
+*.swp
